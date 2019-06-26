@@ -1,2 +1,2 @@
 select *
-from test 
+from test this is a test
